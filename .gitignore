@@ -1,2 +1,3 @@
 # list ra các file không muốn push lên git
 /node_modules
+/web.config

@@ -1,4 +1,4 @@
-import React,{Component} from 'react'
+// import React from 'react'
 
 //           Tên component (functional component)
 export const Card = () => {
